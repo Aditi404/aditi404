@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditi Prakash</h1>
 <h2 align="center">A learner</h2>
 
-- Currently learning **Front End Development**
+- Currently learning **Front End Development and C++**
 
 - ⚡ Fun fact **I love sleeping**
 
